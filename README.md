@@ -1,13 +1,15 @@
 <h1 align="center">Привет 👋, я Алтынбек</h1>
 <h3 align="center">Увлеченный бэкенд-разработчик из Кыргызстана</h3>
 
-- 🌱 Сейчас я изучаю **Spring boot**
+<p align="left"> <img src="https ://komarev.com/ghpvc/?username=altyndev&label=Profile%20views&color=0e75b6&style=flat" alt="altyndev" /> </p>
+
+<p align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altyndev" alt="altyndev" /></a> </p>
 
 - 📫 Как со мной связаться **altynbekzhumadiluulu@gmail.com**
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="https://linkedin.com /in/altynbek zhumadil uulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="алтынбек жумадил уулу" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/altynbek zhumadil uulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="алтынбек жумадил уулу" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
